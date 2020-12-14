@@ -3,4 +3,4 @@ PHP application to implement a full-featured outgoing SMTP server that powers mo
 
 https://img.shields.io/badge/
 
-https://img.shields.io/appveyor/build/thedanielmark/mx-out-mixspace
+![]https://img.shields.io/appveyor/build/thedanielmark/mx-out-mixspace
